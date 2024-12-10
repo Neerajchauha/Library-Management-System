@@ -1,6 +1,6 @@
 # Library-Management-System-Project
 
-A library management system is software that is designed to manage all the functions of a library. It helps librarian to maintain the database of new books and the books that are borrowed by members along with their due dates.
+Downloads
 
 
 https://media.licdn.com/dms/image/D5612AQGRmd27pihzxg/article-cover_image-shrink_720_1280/0/1693189192191?e=2147483647&v=beta&t=NUq_V4I5E53ZWdMPiYrZTGPG0Nv7c0Cdp6kVItwFcNU
