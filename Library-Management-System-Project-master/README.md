@@ -3,7 +3,7 @@
 A library management system is software that is designed to manage all the functions of a library. It helps librarian to maintain the database of new books and the books that are borrowed by members along with their due dates.
 
 
-![loading](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/31d70921-d5ab-4fd7-907f-61e68e28da49)
+https://media.licdn.com/dms/image/D5612AQGRmd27pihzxg/article-cover_image-shrink_720_1280/0/1693189192191?e=2147483647&v=beta&t=NUq_V4I5E53ZWdMPiYrZTGPG0Nv7c0Cdp6kVItwFcNU
 
 ![login](https://github.com/sudhirkumar85/Library-Management-System-Project/assets/84500245/7668e6d6-eed4-43e4-8dfa-a54c0b37d359)
 
